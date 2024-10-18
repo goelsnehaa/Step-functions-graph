@@ -1,15 +1,14 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <StateMachineGraph/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import StateMachineGraph from './components/StateMachineGraph.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    StateMachineGraph
   }
 }
 </script>
