@@ -1,4 +1,4 @@
-# step-functions-graph
+# Step-functions-graph
 
 ## Project setup
 ```
@@ -18,6 +18,10 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+```
+### Server
+```
+nodemon .\server\index.js
 ```
 
 ### Customize configuration
